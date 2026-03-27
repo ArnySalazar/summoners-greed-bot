@@ -1,0 +1,8 @@
+dataset/raw/
+dataset/train/
+dataset/val/
+models/
+logs/
+__pycache__/
+*.pyc
+.env
