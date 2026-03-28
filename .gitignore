@@ -6,3 +6,12 @@ logs/
 __pycache__/
 *.pyc
 .env
+dataset/
+models/
+logs/
+screen_bot.png
+*.keras
+*.h5
+__pycache__/
+*.pyc
+
